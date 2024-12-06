@@ -5,7 +5,7 @@ In this assignment, we have to calculate amount of shares for the tickers given 
 ### Installation
 
 ```
-pip install pandas yfinance
+pip install -r requirements.txt
 ```
 
 ### Running code
